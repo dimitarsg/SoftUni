@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\VendingMachine\obj\Debug\VendingMachine.pdb

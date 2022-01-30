@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\bin\Debug\Ages.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\bin\Debug\Ages.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\bin\Debug\Ages.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\obj\Debug\Ages.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\obj\Debug\Ages.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\obj\Debug\Ages.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Ages\obj\Debug\Ages.pdb

@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\bin\Debug\StrongNumber.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\bin\Debug\StrongNumber.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\bin\Debug\StrongNumber.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\obj\Debug\StrongNumber.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\obj\Debug\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\obj\Debug\StrongNumber.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\StrongNumber\obj\Debug\StrongNumber.pdb

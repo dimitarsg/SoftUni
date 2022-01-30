@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\bin\Debug\Login.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\bin\Debug\Login.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\bin\Debug\Login.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\obj\Debug\Login.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Login\obj\Debug\Login.pdb

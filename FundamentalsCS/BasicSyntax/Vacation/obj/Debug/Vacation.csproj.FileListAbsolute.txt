@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\bin\Debug\Vacation.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\bin\Debug\Vacation.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\bin\Debug\Vacation.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\obj\Debug\Vacation.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\obj\Debug\Vacation.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\Vacation\obj\Debug\Vacation.pdb

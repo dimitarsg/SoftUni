@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

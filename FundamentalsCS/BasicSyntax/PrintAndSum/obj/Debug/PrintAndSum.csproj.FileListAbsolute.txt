@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\PrintAndSum\bin\Debug\PrintAndSum.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\PrintAndSum\bin\Debug\PrintAndSum.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\PrintAndSum\bin\Debug\PrintAndSum.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\PrintAndSum\obj\Debug\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\PrintAndSum\obj\Debug\PrintAndSum.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\BasicSyntax\PrintAndSum\obj\Debug\PrintAndSum.pdb
