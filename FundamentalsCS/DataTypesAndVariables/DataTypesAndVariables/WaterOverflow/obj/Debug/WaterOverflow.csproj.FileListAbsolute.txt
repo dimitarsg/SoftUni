@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\bin\Debug\WaterOverflow.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\bin\Debug\WaterOverflow.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\bin\Debug\WaterOverflow.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\obj\Debug\WaterOverflow.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\obj\Debug\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\obj\Debug\WaterOverflow.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\WaterOverflow\obj\Debug\WaterOverflow.pdb

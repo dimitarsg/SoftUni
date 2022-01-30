@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\TripleOfLatinLetters\bin\Debug\TripleOfLatinLetters.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\TripleOfLatinLetters\obj\Debug\TripleOfLatinLetters.pdb

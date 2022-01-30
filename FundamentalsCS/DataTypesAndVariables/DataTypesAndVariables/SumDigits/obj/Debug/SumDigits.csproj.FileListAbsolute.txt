@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumDigits\bin\Debug\SumDigits.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumDigits\bin\Debug\SumDigits.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumDigits\obj\Debug\SumDigits.pdb

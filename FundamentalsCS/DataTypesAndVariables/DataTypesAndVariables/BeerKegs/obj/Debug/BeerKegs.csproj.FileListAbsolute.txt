@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.pdb

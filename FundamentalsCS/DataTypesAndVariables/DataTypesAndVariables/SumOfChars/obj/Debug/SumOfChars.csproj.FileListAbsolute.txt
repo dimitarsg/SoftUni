@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\bin\Debug\SumOfChars.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\SumOfChars\obj\Debug\SumOfChars.pdb

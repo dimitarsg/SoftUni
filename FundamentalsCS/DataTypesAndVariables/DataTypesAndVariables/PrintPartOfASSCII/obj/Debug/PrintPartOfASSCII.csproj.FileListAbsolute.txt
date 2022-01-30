@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\PrintPartOfASSCII\bin\Debug\PrintPartOfASSCII.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\PrintPartOfASSCII\bin\Debug\PrintPartOfASSCII.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\PrintPartOfASSCII\bin\Debug\PrintPartOfASSCII.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\PrintPartOfASSCII\obj\Debug\PrintPartOfASSCII.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\PrintPartOfASSCII\obj\Debug\PrintPartOfASSCII.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\DataTypesAndVariables\PrintPartOfASSCII\obj\Debug\PrintPartOfASSCII.pdb
