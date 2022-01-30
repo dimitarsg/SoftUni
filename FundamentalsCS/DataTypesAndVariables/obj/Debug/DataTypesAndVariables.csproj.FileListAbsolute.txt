@@ -1,7 +1,0 @@
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csproj.AssemblyReference.cache
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csproj.CoreCompileInputs.cache
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
-C:\Git\VisualStudio\SoftUni\FundamentalsCS\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb
