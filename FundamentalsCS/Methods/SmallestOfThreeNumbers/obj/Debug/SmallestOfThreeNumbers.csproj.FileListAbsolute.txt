@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\bin\Debug\SmallestOfThreeNumbers.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\bin\Debug\SmallestOfThreeNumbers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\bin\Debug\SmallestOfThreeNumbers.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\SmallestOfThreeNumbers\obj\Debug\SmallestOfThreeNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\bin\Debug\EqualSums.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\bin\Debug\EqualSums.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\obj\Debug\EqualSums.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\obj\Debug\EqualSums.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\obj\Debug\EqualSums.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\EqualSums\obj\Debug\EqualSums.pdb

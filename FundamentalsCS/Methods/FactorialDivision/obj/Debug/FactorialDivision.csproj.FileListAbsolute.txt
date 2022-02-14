@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\FactorialDivision\bin\Debug\FactorialDivision.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\FactorialDivision\bin\Debug\FactorialDivision.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\FactorialDivision\bin\Debug\FactorialDivision.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\FactorialDivision\obj\Debug\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\FactorialDivision\obj\Debug\FactorialDivision.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\FactorialDivision\obj\Debug\FactorialDivision.pdb

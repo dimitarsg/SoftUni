@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\Train\bin\Debug\Train.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\Train\bin\Debug\Train.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\Train\bin\Debug\Train.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\Train\obj\Debug\Train.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\Train\obj\Debug\Train.pdb

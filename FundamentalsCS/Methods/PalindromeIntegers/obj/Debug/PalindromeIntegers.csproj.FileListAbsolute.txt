@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\PalindromeIntegers\bin\Debug\PalindromeIntegers.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\PalindromeIntegers\bin\Debug\PalindromeIntegers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\PalindromeIntegers\bin\Debug\PalindromeIntegers.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\PalindromeIntegers\obj\Debug\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\PalindromeIntegers\obj\Debug\PalindromeIntegers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\PalindromeIntegers\obj\Debug\PalindromeIntegers.pdb

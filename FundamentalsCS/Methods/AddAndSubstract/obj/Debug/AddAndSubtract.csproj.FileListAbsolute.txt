@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\bin\Debug\AddAndSubstract.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\bin\Debug\AddAndSubstract.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\bin\Debug\AddAndSubstract.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\obj\Debug\AddAndSubtract.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\obj\Debug\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\obj\Debug\AddAndSubstract.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\AddAndSubstract\obj\Debug\AddAndSubstract.pdb

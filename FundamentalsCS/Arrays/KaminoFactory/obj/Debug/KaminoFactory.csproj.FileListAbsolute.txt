@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\bin\Debug\KaminoFactory.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\bin\Debug\KaminoFactory.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\bin\Debug\KaminoFactory.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\obj\Debug\KaminoFactory.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\obj\Debug\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\obj\Debug\KaminoFactory.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\KaminoFactory\obj\Debug\KaminoFactory.pdb

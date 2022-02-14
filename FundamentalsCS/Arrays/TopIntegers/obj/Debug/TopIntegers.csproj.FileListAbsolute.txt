@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\bin\Debug\TopIntegers.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\bin\Debug\TopIntegers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\bin\Debug\TopIntegers.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\obj\Debug\TopIntegers.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\obj\Debug\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\obj\Debug\TopIntegers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\TopIntegers\obj\Debug\TopIntegers.pdb

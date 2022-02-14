@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\CommonElements\bin\Debug\CommonElements.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\CommonElements\bin\Debug\CommonElements.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\CommonElements\bin\Debug\CommonElements.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\CommonElements\obj\Debug\CommonElements.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\CommonElements\obj\Debug\CommonElements.pdb

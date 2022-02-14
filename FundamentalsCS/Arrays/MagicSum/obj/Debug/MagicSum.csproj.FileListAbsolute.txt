@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\bin\Debug\MagicSum.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\bin\Debug\MagicSum.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\bin\Debug\MagicSum.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\obj\Debug\MagicSum.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\obj\Debug\MagicSum.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\obj\Debug\MagicSum.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MagicSum\obj\Debug\MagicSum.pdb

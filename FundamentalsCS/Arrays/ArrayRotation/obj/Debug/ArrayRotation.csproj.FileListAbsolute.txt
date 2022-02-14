@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\obj\Debug\ArrayRotation.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ArrayRotation\obj\Debug\ArrayRotation.csproj.AssemblyReference.cache

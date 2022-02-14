@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\bin\Debug\ZigZagArrays.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\bin\Debug\ZigZagArrays.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\bin\Debug\ZigZagArrays.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\ZigZagArrays\obj\Debug\ZigZagArrays.pdb

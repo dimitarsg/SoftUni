@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Arrays\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

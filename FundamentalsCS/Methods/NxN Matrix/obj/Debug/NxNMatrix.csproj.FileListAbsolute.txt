@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\NxN Matrix\bin\Debug\NxN Matrix.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\NxN Matrix\bin\Debug\NxN Matrix.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\NxN Matrix\bin\Debug\NxN Matrix.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\NxN Matrix\obj\Debug\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\NxN Matrix\obj\Debug\NxN Matrix.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Methods\NxN Matrix\obj\Debug\NxN Matrix.pdb
