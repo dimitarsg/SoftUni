@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\bin\Debug\ListOperations.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\bin\Debug\ListOperations.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\bin\Debug\ListOperations.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\obj\Debug\ListOperations.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\obj\Debug\ListOperations.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\obj\Debug\ListOperations.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ListOperations\obj\Debug\ListOperations.pdb

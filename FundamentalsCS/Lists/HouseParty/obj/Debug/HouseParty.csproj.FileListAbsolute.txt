@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\bin\Debug\HouseParty.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\bin\Debug\HouseParty.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\bin\Debug\HouseParty.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\obj\Debug\HouseParty.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\obj\Debug\HouseParty.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\obj\Debug\HouseParty.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\HouseParty\obj\Debug\HouseParty.pdb

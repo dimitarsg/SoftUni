@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\bin\Debug\ChangeList.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\bin\Debug\ChangeList.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\bin\Debug\ChangeList.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\obj\Debug\ChangeList.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\obj\Debug\ChangeList.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\obj\Debug\ChangeList.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\ChangeList\obj\Debug\ChangeList.pdb

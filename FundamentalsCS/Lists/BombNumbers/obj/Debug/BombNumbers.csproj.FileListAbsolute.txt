@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\bin\Debug\BombNumbers.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\bin\Debug\BombNumbers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\bin\Debug\BombNumbers.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\obj\Debug\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\obj\Debug\BombNumbers.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\obj\Debug\BombNumbers.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\BombNumbers\obj\Debug\BombNumbers.csproj.AssemblyReference.cache

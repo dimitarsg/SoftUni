@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\bin\Debug\CardsGame.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\bin\Debug\CardsGame.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\bin\Debug\CardsGame.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\obj\Debug\CardsGame.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\obj\Debug\CardsGame.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\obj\Debug\CardsGame.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\CardsGame\obj\Debug\CardsGame.pdb

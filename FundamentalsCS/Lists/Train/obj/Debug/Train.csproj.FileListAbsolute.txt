@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\bin\Debug\Train.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\bin\Debug\Train.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\bin\Debug\Train.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\obj\Debug\Train.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\obj\Debug\Train.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\Lists\Train\obj\Debug\Train.pdb
