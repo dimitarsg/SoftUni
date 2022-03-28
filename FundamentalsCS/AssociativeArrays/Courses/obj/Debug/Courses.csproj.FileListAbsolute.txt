@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\obj\Debug\Courses.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\bin\Debug\Courses.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\bin\Debug\Courses.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\bin\Debug\Courses.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\obj\Debug\Courses.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Courses\obj\Debug\Courses.pdb

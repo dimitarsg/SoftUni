@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\bin\Debug\Orders.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\bin\Debug\Orders.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\bin\Debug\Orders.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\obj\Debug\Orders.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\obj\Debug\Orders.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\Orders\obj\Debug\Orders.pdb

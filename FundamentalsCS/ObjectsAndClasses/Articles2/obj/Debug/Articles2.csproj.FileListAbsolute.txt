@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\bin\Debug\Articles2.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\bin\Debug\Articles2.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\bin\Debug\Articles2.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\obj\Debug\Articles2.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\obj\Debug\Articles2.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\obj\Debug\Articles2.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\Articles2\obj\Debug\Articles2.pdb

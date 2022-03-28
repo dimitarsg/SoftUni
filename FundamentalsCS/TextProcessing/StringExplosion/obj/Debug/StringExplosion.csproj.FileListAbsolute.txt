@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\bin\Debug\StringExplosion.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\bin\Debug\StringExplosion.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\bin\Debug\StringExplosion.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\obj\Debug\StringExplosion.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\obj\Debug\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\obj\Debug\StringExplosion.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\StringExplosion\obj\Debug\StringExplosion.pdb

@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\bin\Debug\SchoolLibrary.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\bin\Debug\SchoolLibrary.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\obj\Debug\SchoolLibrary.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\SchoolLibrary\obj\Debug\SchoolLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\bin\Debug\ShoppingList.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\obj\Debug\ShoppingList.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShoppingList\obj\Debug\ShoppingList.pdb

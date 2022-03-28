@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

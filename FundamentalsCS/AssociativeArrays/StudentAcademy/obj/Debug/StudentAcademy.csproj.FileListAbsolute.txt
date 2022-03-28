@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\bin\Debug\StudentAcademy.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\bin\Debug\StudentAcademy.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\bin\Debug\StudentAcademy.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\obj\Debug\StudentAcademy.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\obj\Debug\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\obj\Debug\StudentAcademy.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\StudentAcademy\obj\Debug\StudentAcademy.pdb

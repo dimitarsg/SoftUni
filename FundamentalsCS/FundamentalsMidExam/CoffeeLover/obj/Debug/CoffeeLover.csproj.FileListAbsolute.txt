@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\bin\Debug\CoffeeLover.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\bin\Debug\CoffeeLover.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\bin\Debug\CoffeeLover.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\obj\Debug\CoffeeLover.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\obj\Debug\CoffeeLover.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\obj\Debug\CoffeeLover.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\CoffeeLover\obj\Debug\CoffeeLover.pdb

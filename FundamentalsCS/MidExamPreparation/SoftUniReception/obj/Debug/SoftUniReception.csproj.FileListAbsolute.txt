@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\bin\Debug\SoftUniReception.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\bin\Debug\SoftUniReception.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\bin\Debug\SoftUniReception.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\obj\Debug\SoftUniReception.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\obj\Debug\SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\obj\Debug\SoftUniReception.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\SoftUniReception\obj\Debug\SoftUniReception.pdb

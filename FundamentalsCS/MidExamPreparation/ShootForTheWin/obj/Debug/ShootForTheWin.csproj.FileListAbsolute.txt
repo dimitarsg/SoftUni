@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShootForTheWin\bin\Debug\ShootForTheWin.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShootForTheWin\bin\Debug\ShootForTheWin.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShootForTheWin\bin\Debug\ShootForTheWin.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShootForTheWin\obj\Debug\ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShootForTheWin\obj\Debug\ShootForTheWin.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ShootForTheWin\obj\Debug\ShootForTheWin.pdb

@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\bin\Debug\ValidUsernames.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\bin\Debug\ValidUsernames.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\obj\Debug\ValidUsernames.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\obj\Debug\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\obj\Debug\ValidUsernames.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ValidUsernames\obj\Debug\ValidUsernames.pdb

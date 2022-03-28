@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ExtractFile\bin\Debug\ExtractFile.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ExtractFile\bin\Debug\ExtractFile.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ExtractFile\bin\Debug\ExtractFile.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ExtractFile\obj\Debug\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ExtractFile\obj\Debug\ExtractFile.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ExtractFile\obj\Debug\ExtractFile.pdb

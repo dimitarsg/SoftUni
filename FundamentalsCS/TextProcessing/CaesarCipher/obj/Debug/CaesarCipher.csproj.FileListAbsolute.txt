@@ -1,0 +1,6 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CaesarCipher\bin\Debug\CaesarCipher.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CaesarCipher\bin\Debug\CaesarCipher.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CaesarCipher\obj\Debug\CaesarCipher.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CaesarCipher\obj\Debug\CaesarCipher.pdb

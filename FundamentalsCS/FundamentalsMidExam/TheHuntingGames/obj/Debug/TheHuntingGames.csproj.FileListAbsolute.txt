@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\bin\Debug\TheHuntingGames.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\bin\Debug\TheHuntingGames.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\bin\Debug\TheHuntingGames.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\obj\Debug\TheHuntingGames.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\obj\Debug\TheHuntingGames.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\obj\Debug\TheHuntingGames.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\FundamentalsMidExam\TheHuntingGames\obj\Debug\TheHuntingGames.pdb

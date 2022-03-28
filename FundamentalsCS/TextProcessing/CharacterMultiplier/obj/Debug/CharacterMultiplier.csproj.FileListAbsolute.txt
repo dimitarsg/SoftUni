@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

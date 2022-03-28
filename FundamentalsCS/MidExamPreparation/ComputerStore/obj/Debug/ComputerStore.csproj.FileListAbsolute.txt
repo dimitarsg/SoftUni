@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\bin\Debug\ComputerStore.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\bin\Debug\ComputerStore.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\bin\Debug\ComputerStore.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\obj\Debug\ComputerStore.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\obj\Debug\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\obj\Debug\ComputerStore.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ComputerStore\obj\Debug\ComputerStore.pdb

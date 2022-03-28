@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\bin\Debug\HeartDelivery.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\bin\Debug\HeartDelivery.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\bin\Debug\HeartDelivery.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\obj\Debug\HeartDelivery.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\obj\Debug\HeartDelivery.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\obj\Debug\HeartDelivery.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\HeartDelivery\obj\Debug\HeartDelivery.pdb

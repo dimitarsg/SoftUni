@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\bin\Debug\CountCharsInAString.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\bin\Debug\CountCharsInAString.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\bin\Debug\CountCharsInAString.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\obj\Debug\CountCharsInAString.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\obj\Debug\CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\obj\Debug\CountCharsInAString.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\CountCharsInAString\obj\Debug\CountCharsInAString.pdb

@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\bin\Debug\ReplaceRepeatingChars.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\bin\Debug\ReplaceRepeatingChars.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\bin\Debug\ReplaceRepeatingChars.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\TextProcessing\ReplaceRepeatingChars\obj\Debug\ReplaceRepeatingChars.pdb

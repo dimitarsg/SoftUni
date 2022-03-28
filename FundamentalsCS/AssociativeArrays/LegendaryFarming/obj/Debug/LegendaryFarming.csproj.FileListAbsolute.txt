@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\obj\Debug\LegendaryFarming.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\obj\Debug\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\LegendaryFarming\obj\Debug\LegendaryFarming.pdb

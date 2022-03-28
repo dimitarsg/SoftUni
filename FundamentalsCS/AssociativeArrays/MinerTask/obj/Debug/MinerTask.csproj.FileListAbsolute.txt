@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\bin\Debug\MinerTask.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\bin\Debug\MinerTask.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\bin\Debug\MinerTask.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\obj\Debug\MinerTask.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\obj\Debug\MinerTask.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\obj\Debug\MinerTask.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\MinerTask\obj\Debug\MinerTask.pdb

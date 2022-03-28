@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\bin\Debug\GuineaPig.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\bin\Debug\GuineaPig.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\bin\Debug\GuineaPig.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\obj\Debug\GuineaPig.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\obj\Debug\GuineaPig.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\obj\Debug\GuineaPig.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\GuineaPig\obj\Debug\GuineaPig.pdb

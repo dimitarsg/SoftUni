@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\bin\Debug\SoftUniParking.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\bin\Debug\SoftUniParking.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\bin\Debug\SoftUniParking.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\obj\Debug\SoftUniParking.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\obj\Debug\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\obj\Debug\SoftUniParking.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\AssociativeArrays\SoftUniParking\obj\Debug\SoftUniParking.pdb

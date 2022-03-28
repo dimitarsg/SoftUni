@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\MemoryGame\obj\Debug\MemoryGame.pdb

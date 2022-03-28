@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\bin\Debug\TeamworkProjects.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\bin\Debug\TeamworkProjects.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\bin\Debug\TeamworkProjects.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.pdb

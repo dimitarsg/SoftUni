@@ -1,0 +1,7 @@
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\bin\Debug\ArrayModifier.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\bin\Debug\ArrayModifier.pdb
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\obj\Debug\ArrayModifier.csproj.AssemblyReference.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\obj\Debug\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\obj\Debug\ArrayModifier.exe
+C:\Git\VisualStudio\SoftUni\FundamentalsCS\MidExamPreparation\ArrayModifier\obj\Debug\ArrayModifier.pdb
